@@ -12,7 +12,7 @@ On a similar pattern, there was also a larger volume of drivers in urban cities 
 
 ![% of Total Drivers by City Type](Analysis/Fig7.png)
 
-Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in urban cities totaled nearly $40,000 whereas transactions in urban cities and rural cities totaled at least $19,000 and $4,000, respectively. The figure below demonstrates where the majority of PyBer's revenue occurred during this time period.
+Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in urban cities totaled nearly $40,000 whereas transactions in urban cities and rural cities totaled at least $19,000 and $4,000, respectively. The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
 
 ![% of Total Fares by City Type](Analysis/Fig5.png)
 
